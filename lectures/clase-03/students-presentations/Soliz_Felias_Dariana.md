@@ -241,3 +241,4 @@ export OPENAI_API_KEY=sk-your-key-here
 ### Error: "JSON parsing failed"
 - El LLM devolvió formato incorrecto
 - Revisar prompts o aumentar max_tokens
+
